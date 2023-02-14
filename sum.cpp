@@ -18,7 +18,7 @@ int main()
     while (testcases--)
     {
         solution sol;
-        cout << "Sum of 10 and 12 is: " << sol.sum(10, 12);
+        cout << "Sum of 10 and 12 is: " << sol.sum(112, 12);
     }
     return 0;
 }
